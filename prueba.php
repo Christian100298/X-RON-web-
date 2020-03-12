@@ -23,8 +23,7 @@
                 <div class="row">
                     <br>
                     <br>
-                    <div class="col-sm-8"><h2><b>Administración De Usuarios christian</b></h2></div>
-                    <div class="col-sm-8"><h2><b>Administración De Usuarios christian</b></h2></div>
+                    <div class="col-sm-8"><h2><b>Administración De Usuarios christian ahora si</b></h2></div>
 
                     <div class="col-sm-4">
                     </div>
@@ -38,6 +37,11 @@
                     <hr>
                     <div id="myfirstchart" ></div>
 
+                </div>
+                <div class="col-md-6">
+                    <h2>Promedio de avances de usuarios</h2>
+                    <hr>
+                    <div id="area-example"></div>
                 </div>
                 <div class="col-md-6">
                     <h2>Promedio de avances de usuarios</h2>
