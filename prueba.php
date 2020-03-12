@@ -24,6 +24,8 @@
                     <br>
                     <br>
                     <div class="col-sm-8"><h2><b>Administración De Usuarios christian</b></h2></div>
+                    <div class="col-sm-8"><h2><b>Administración De Usuarios christian</b></h2></div>
+
                     <div class="col-sm-4">
                     </div>
                 </div>
