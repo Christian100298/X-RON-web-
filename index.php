@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="css/estilo.css">
 </head>
 <body>
-
+<!--este es mi commit-->
     <div class="login-box">
         <img src="img/logo.jpg" class="avatar" alt="Avatar Image">
         <h1>Administrador</h1>
