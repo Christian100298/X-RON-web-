@@ -13,7 +13,7 @@
         <form action="prueba.php" method="post">
             <label for="username" >Matrícula</label>
             <input type="text" id="inputMatricula" value="12345" placeholder="Ingrese Matrícula" name="inputMatricula">
-            <label for="password">Contraseña</label>
+            <label for="password">Contraseña ahora si porfavor</label>
             <input type="password"id="inputPassword" value="12345" placeholder="Ingrese contraseña" name="inputPassword">
             <input type="submit" value="Iniciar Sesión" id="buttonLogin">
             
