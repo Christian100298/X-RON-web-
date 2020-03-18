@@ -14,7 +14,7 @@
     
     <!--otro intento-->
     <!--ya esta ya puedo-->
-
+    <!--mira nigga-->
     <title>Grafica de usuarios</title>
     </head>
     <body style="background-color:#A4A9FF;">
